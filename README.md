@@ -1,8 +1,17 @@
-!Hello
-@My
-#Name 
-$is 
-%Sugardog
-^or
-&Tran Minh Khoi Ngo
-*Thank you
+#Number row characters
+- !
+- @
+- $
+- %
+- ^
+- &
+#Link
+-
+-
+-
+-
+#Emoji
+-
+-
+-
+
