@@ -20,5 +20,5 @@
 
 
 
-Lab 6
-[CLI commands](Docs/cli.md)
+Lab 6 
+[CLI commands](Docs/Cli.md)
