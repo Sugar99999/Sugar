@@ -19,4 +19,4 @@
 - :frog:
 
 Lab 6
-[CLI commands](docs/cli.md)
+[CLI commands](Docs/cli.md)
